@@ -25,8 +25,8 @@ pode me falar! 📚
 
 # 👩‍👩‍👧‍👧 Comunidades
 
-• Membro do [ElasUFCG](https://github.com/elasComputacao/)
-• Membro da PyLadies Paraíba
+• Membro do [ElasUFCG](https://github.com/elasComputacao/).
+• Membro da [PyLadies Paraíba](https://github.com/pyladiespb).
 
 
 
