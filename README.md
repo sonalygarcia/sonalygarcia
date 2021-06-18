@@ -10,8 +10,23 @@ Outra paixão minha é desing gráfico, então pode ser que você encontre algo 
 Além do mais, sou totalmente viciada em ler livros, se você tiver um indicação de um livro íncrivel, 
 pode me falar! 📚
 
-# Linguagens e ferramentas.
+# ⚙️ Linguagens e ferramentas.
 
-![image](https://user-images.githubusercontent.com/70299131/122593193-b26bf700-d03b-11eb-8d3b-3abfda68ce2d.png) ![image](https://user-images.githubusercontent.com/70299131/122593288-d16a8900-d03b-11eb-9b22-98138b4450f6.png) https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToaA09fSPK8pcF-4dL30ZLZW4WPmC6VUSnYw&usqp=CAU 
+• Python.
+• Java.
+• MySQL.
+• C.
+
+# 💭 Sobre mim.
+
+• Bastante comunicativa e gosto de uma boa proza.
+• Acho de grande importância trocas de conhecimento com quem está a volta.
+• Programadora iniciante em Python, Java, MySQL e C.
+
+# 👩‍👩‍👧‍👧 Comunidades
+
+• Membro do [ElasUFCG](https://github.com/elasComputacao/)
+• Membro da PyLadies Paraíba
+
 
 
