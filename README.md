@@ -28,5 +28,11 @@ pode me falar! 📚<br />
 • Membro do [ElasUFCG](https://github.com/elasComputacao/).<br />
 • Membro da [PyLadies Paraíba](https://github.com/pyladiespb).<br />
 
+# 🗣️ Entre em contato comigo!
+
+• ![image](https://user-images.githubusercontent.com/70299131/122610967-e6084a80-d056-11eb-9cc3-576a8dfb5ef0.png)(https://www.instagram.com/sonalyssz/)<br />
+
+
+
 
 
