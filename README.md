@@ -30,7 +30,7 @@ pode me falar! 📚<br />
 
 # 🗣️ Entre em contato comigo!
 
-• ![image](https://user-images.githubusercontent.com/70299131/122610967-e6084a80-d056-11eb-9cc3-576a8dfb5ef0.png)(https://www.instagram.com/sonalyssz/)<br />
+• <![image](https://user-images.githubusercontent.com/70299131/122610967-e6084a80-d056-11eb-9cc3-576a8dfb5ef0.png) src="https://github.com/favicon.ico" width="1">(https://www.instagram.com/sonalyssz/)<br />
 
 
 
