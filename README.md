@@ -30,7 +30,7 @@ pode me falar! 📚<br />
 
 # 🗣️ Entre em contato comigo!
 
-<img src="https://image.flaticon.com/icons/png/512/174/174855.png" width="30" height="30" /> [@sonalyssz](https://www.instagram.com/sonalyssz/).<br />
+<img src="https://image.flaticon.com/icons/png/512/174/174855.png" width="20" height="20" /> [@sonalyssz](https://www.instagram.com/sonalyssz/).<br />
 
 
 
