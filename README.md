@@ -31,7 +31,8 @@ pode me falar! 📚<br />
 # 🗣️ Entre em contato comigo!
 
 <img src="https://image.flaticon.com/icons/png/512/174/174855.png" width="20" height="20" /> [@Sonalyssz](https://www.instagram.com/sonalyssz/).<br />
-<img src="https://png.pngtree.com/png-vector/20191030/ourlarge/pngtree-message-icon-isolated-on-abstract-background-png-image_1911662.jpg" width="20" height="20" /> [sonaly.nunes@ccc.ufcg.edu.br](sonaly.nunes@ccc.ufcg.edu.br).<br />
+<img src="https://png.pngtree.com/png-vector/20191030/ourlarge/pngtree-message-icon-isolated-on-abstract-background-png-image_1911662.jpg" width="20" height="20" /> [Sonaly.nunes@ccc.ufcg.edu.br](sonaly.nunes@ccc.ufcg.edu.br).<br />
+<img src="https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png" width="20" height="20" /> [Sonaly Garcia](https://www.linkedin.com/in/sonaly-katly-garcia-nunes-219b731b8/).<br />
 
 
 
