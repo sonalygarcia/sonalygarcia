@@ -30,8 +30,8 @@ pode me falar! 📚<br />
 
 # 🗣️ Entre em contato comigo!
 
-<img src="https://image.flaticon.com/icons/png/512/174/174855.png" width="20" height="20" /> [@sonalyssz](https://www.instagram.com/sonalyssz/).<br />
-
+<img src="https://image.flaticon.com/icons/png/512/174/174855.png" width="20" height="20" /> [@Sonalyssz](https://www.instagram.com/sonalyssz/).<br />
+<img src="https://png.pngtree.com/png-vector/20191030/ourlarge/pngtree-message-icon-isolated-on-abstract-background-png-image_1911662.jpg" width="20" height="20" /> [sonaly.nunes@ccc.ufcg.edu.br](sonaly.nunes@ccc.ufcg.edu.br).<br />
 
 
 
