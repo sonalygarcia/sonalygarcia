@@ -31,7 +31,7 @@ pode me falar! 📚<br />
 # 🗣️ Entre em contato comigo!
 
 • <a href="url"><img src="![image](https://user-images.githubusercontent.com/70299131/122626282-0a2c5180-d080-11eb-86d7-33125e69f643.png)
-" align="left" height="1" width="1" ></a>
+" align="left" height="10" width="10" ></a>
 
 
 
