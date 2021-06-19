@@ -30,7 +30,7 @@ pode me falar! 📚<br />
 
 # 🗣️ Entre em contato comigo!
 
-• [[ http://url.to/image.png | altura = 100 px]]
+• <a href="url"><img src="https://www.instagram.com/sonalyssz/" align="left" height="48" width="48" ></a>
 
 
 
